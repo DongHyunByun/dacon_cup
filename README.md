@@ -21,3 +21,7 @@
         - lstm 모델링 및 코드
     4. my_sub.csv
         - 결과파일(제출파일)
+
+
+5. **결과**
+    <img width="967" alt="스크린샷 2021-02-02 오전 9 36 17" src="https://user-images.githubusercontent.com/50386280/106535830-6f046680-653a-11eb-8c54-326feb1cf2b6.png">
