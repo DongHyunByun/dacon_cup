@@ -25,4 +25,5 @@
 
 5. **결과**
     - 7위 입상  
-    ![noname01](https://user-images.githubusercontent.com/50386280/107297685-38d56280-6ab7-11eb-9360-20a9be49e85e.jpg)
+    ![noname01](https://user-images.githubusercontent.com/50386280/107297809-789c4a00-6ab7-11eb-854c-7a5be1cf7668.png)
+
